@@ -65,8 +65,8 @@ Simulation verifies:
 - Character transmission
 - LED response on Arduino
 - 
-<img src="/Simulation_1.png" alt="Simulation_1" width=50%>
-<img src="/Simulation_2.png" alt="Simulation_2" width=50%>
+<img src="Simulation_1.png" alt="Simulation_1" width=50%>
+<img src="Simulation_2.png" alt="Simulation_2" width=50%>
 
 ---
 

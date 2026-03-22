@@ -14,7 +14,7 @@ Print **"Hello World"** only once at **115200 baud rate** in the terminal (Virtu
 
 ## Pin Description
 
-![screenshot.png](./STM32_VirtualTerminal/Assignpin.png)
+![screenshot.png](Assignpin.png)
 
 | Pin Name | Function    | Description                        |
 |----------|-------------|------------------------------------|
@@ -54,4 +54,4 @@ int main(void)
 ```
 
 ## Outcome
-![screenshot.png](./STM32_VirtualTerminal/screenshot.png)
+![screenshot.png](./screenshot.png)
